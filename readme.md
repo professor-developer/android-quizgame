@@ -27,6 +27,12 @@
 - TriviaQuestion.java         // Question class which has get and set methods.
 - TriviaQuizHelper.java       // My question bank class. NOTE-IF YOU WANT TO MODIFY THE QUESTIONS YOU CAN DO SO HERE AND AFTER THAT DONT FORGET TO INCREMENT THE "DATABASEVERSIONNUMBER" VARIABLE DECLARED IN THIS CLASS EACH TIME YOU MODIFY TO CHANGE TO TAKE PLACE.
 
+# Screenshots
+![capture1](https://cloud.githubusercontent.com/assets/22947683/21770990/7ef9c3f2-d63a-11e6-95dd-afc016cec681.PNG)
+![capture2](https://cloud.githubusercontent.com/assets/22947683/21770991/7fce6c06-d63a-11e6-927a-905013f3bfea.PNG)
+![capture3](https://cloud.githubusercontent.com/assets/22947683/21770992/80cd6a94-d63a-11e6-9032-4b03e6e6d786.PNG)
+![capture4](https://cloud.githubusercontent.com/assets/22947683/21770994/813953ee-d63a-11e6-97e3-ecfb6c79f617.PNG)
+
 #License.md
 MIT License
 
