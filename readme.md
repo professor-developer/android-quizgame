@@ -1,25 +1,31 @@
 # TriviaQuiz
-- Quiz game for android
+- An android project to use for different types of multiple-choice quiz applications.
 - Written by Sarvesh chavan
 - Under The MIT License (MIT)
 - Copyright (c) 2017 Sarvesh chavan
 
 # Usage
-- Import the TriviaQuiz game into Android studio.
+- Import the TriviaQuiz project into Android studio.
 
 # Features
 - Educational (General knowledge).
-- Added comments above code so it will help you understand code much better 
-- It has database to store questions 
-- Correct answer +1 coin
-- Timmer of 20 sec for each question
-- Random questions at each play (It will peek random ques and will show it to the user)
+- Multiple choice answer mode.
+- Correct answer option score x5
+- Correct answer option level x1
+- Timmer 5min=300sec
+- Level 1-15
 - Good and Extensible UI.
-- Can be played offline 
 - Compatibility with Android API-14 and above
 - minSdkVersion 14
 - targetSdkVersion 25
-	@@ -34,7 +35,7 @@
+
+#class files
+- MainActivity.java           // Main Activity
+- ResultPlayAgain.java        // Play gain class if you choose wrong answer option.
+- ResultWon.java              // class file If you won the game by choosing all correct options.
+- timeup.java                 // If you exceeds time limit i.e=5min=300sec.
+- TriviaQuestion.java         // Question class which has get and set methods.
+- TriviaQuizHelper.java       // My question bank class. NOTE-IF YOU WANT TO MODIFY THE QUESTIONS YOU CAN DO SO HERE AND AFTER THAT DONT FORGET TO INCREMENT THE "DATABASEVERSIONNUMBER" VARIABLE DECLARED IN THIS CLASS EACH TIME YOU MODIFY TO CHANGE TO TAKE PLACE.
 
 # Screenshots
 ![capture1](https://cloud.githubusercontent.com/assets/22947683/21770990/7ef9c3f2-d63a-11e6-95dd-afc016cec681.PNG)
