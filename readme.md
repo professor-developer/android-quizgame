@@ -13,6 +13,7 @@
 - It has database to store questions 
 - Correct answer +1 coin
 - Timmer of 20 sec for each question
+- Random questions at each play (It will peek random ques and will show it to the user)
 - Good and Extensible UI.
 - Can be played offline 
 - Compatibility with Android API-14 and above
